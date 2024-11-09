@@ -23,7 +23,7 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=C,C++,java,JDBC,JSP,Servelet"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
