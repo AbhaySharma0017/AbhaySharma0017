@@ -12,7 +12,7 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="linkedin.com/in/abhay-sharma-03686a290" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
 </p>
 
@@ -44,6 +44,4 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
   
 </table>
 
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
+
