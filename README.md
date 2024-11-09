@@ -12,12 +12,11 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/abhay-sharma-03686a290" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="linkedin.com/in/abhay-sharma-03686a290" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Abhay Sharma" height="40" width="60" ><strong>linkedin</strong></i>
 </a>
 </p>
 
 ------
-
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
