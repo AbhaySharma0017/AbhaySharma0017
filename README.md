@@ -42,10 +42,6 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,sublime"/></td>
     </tr>
   
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr>
 </table>
 
 ------
