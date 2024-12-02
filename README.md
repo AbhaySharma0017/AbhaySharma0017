@@ -9,9 +9,7 @@ As a passionate fresher in the world of technology, I’m on a mission to create
   - 🌱 I’m currently learning; AWS, Jira, and Agile methodology.
   - 💬 Ask me about **Java, JDBC, SQl, JSP, Servlet, Html, CSS, Bootstrap, Javascript, React**
   - ⚡ Fun fact: I look like a hobbit.
-
-<h3 align="left">Connect with me:</h3>
-------
+    
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
