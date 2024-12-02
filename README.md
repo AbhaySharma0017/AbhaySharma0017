@@ -2,11 +2,11 @@
 
 ### Hello 🌎, I'm Abhay Sharma
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+As a passionate fresher in the world of technology, I’m on a mission to create innovative solutions that connect the digital world with real-life experiences! With a solid foundation in frontend and backend development, I’m eager to bring fresh ideas to dynamic teams, whether it’s a cutting-edge startup or a well-established enterprise. I thrive on writing clean, maintainable code and designing with users at the heart of every solution. Let’s build something extraordinary together! 🚀
 
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; AWS, Jira, Agile methodology.
+  - 🔭 I’m currently focused on enhancing my Java skills and keeping up with the latest advancements in JDK versions, from 8 to 21.
+  - 🌱 I’m currently learning; AWS, Jira, and Agile methodology.
   - 💬 Ask me about **Java, JDBC, SQl, JSP, Servlet, Html, CSS, Bootstrap, Javascript, React**
   - ⚡ Fun fact: I look like a hobbit.
 
