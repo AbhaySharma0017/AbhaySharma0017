@@ -11,11 +11,6 @@ As a passionate fresher in the world of technology, I’m on a mission to create
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[linkedin.com/in/abhay-sharma-03686a290](https://www.linkedin.com/in/abhay-sharma-03686a290)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Abhay Sharma" height="40" width="60" ><strong>linkedin</strong></i>
-</a>
-</p>
-
 ------
 
 <h3 align="left">Languages and Tools:</h3>
